@@ -6,7 +6,7 @@ namespace ORT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello ORT!");
+            Console.WriteLine("Hola ORT!");
         }
     }
 }
